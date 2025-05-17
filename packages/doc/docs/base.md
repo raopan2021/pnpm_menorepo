@@ -1,3 +1,7 @@
+# 团队代码风格统一
+
+通过 ESLint + Prettier + Stylelint 实现代码风格规范、格式化，通过 EditorConfig 实现 IDE 编码风格规范化
+
 ## 前言
 
 此篇文章主要讲解如何来搭建一套代码规范体系，主要内容为：通过 ESLint + Prettier + Stylelint 实现代码风格规范、格式化，通过 EditorConfig 实现 IDE 编码风格规范化

@@ -12,9 +12,11 @@ dist
 dist-ssr
 *.local
 cache
+pnpm-lock.yaml
 
 # Editor directories and files
 .idea
+.history
 .DS_Store
 *.suo
 *.ntvs*
