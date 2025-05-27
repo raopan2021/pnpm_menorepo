@@ -5,7 +5,7 @@
   "explorer.fileNesting.patterns": {
     "*.env": ".env.*",
     // config 配置
-    "eslint.config.js": "eslint.config.*, tailwind.config.*, .eslintrc-auto-import.*",
+    "eslint.config.js": "eslint.config.*, tailwind.config.*, .eslintrc-auto-import.*, i18n.config.*, naiveuiRemConfig.*, nuxt.config.*, tsconfig.*, app.config.*",
     // 格式化之类的配置
     "tsconfig.json": ".prettierrc.*, .prettierignore, stylelint.*, .stylelintignore, .editorconfig, commitlint.*, lint-staged.config.js",
     // 依赖、项目之类的配置
